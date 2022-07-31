@@ -6,15 +6,9 @@
 	| |     _| |_| |\  |_| |_   | |     | |   
 	|_|    |_____|_| \_|_____|  |_|     |_|   
 	
-	Source:
-		https://d3to-finity.000webhostapp.com/files/source-0.1.2.txt
-	Version:
-	 0.1.5
-	Date: 
-		April 21th, 2020
-	Author: 
-		detourious @ v3rmillion.net
-		deto#7612  @ discord.gg
+	src
+	v1.05
+	original by deto // fork by @doordash owner :3
 					
 --]]
 
@@ -62,7 +56,7 @@ finity.dark_theme = { -- dark
 	main_container = Color3.fromRGB(11, 12, 15),
 	separator_color = Color3.fromRGB(31, 31, 31),
 
-	text_color = Color3.fromRGB(69, 69, 69),
+	text_color = Color3.fromRGB(211, 79, 110),
 
 	category_button_background = Color3.fromRGB(31, 31, 31),
 	category_button_border = Color3.fromRGB(31, 31, 31),
@@ -87,9 +81,9 @@ finity.dark_theme = { -- dark
 	dropdown_text_hover = Color3.fromRGB(232, 232, 232),
 	dropdown_scrollbar_color = Color3.fromRGB(69, 69, 69),
 	
-	button_background = Color3.fromRGB(103, 103, 106),
-	button_background_hover = Color3.fromRGB(137, 137, 141),
-	button_background_down = Color3.fromRGB(70, 70, 81),
+	button_background = Color3.fromRGB(31, 31, 31),
+	button_background_hover = Color3.fromRGB(38, 38, 38),
+	button_background_down = Color3.fromRGB(38, 38, 38),
 	
 	scrollbar_color = Color3.fromRGB(118, 118, 121),
 }
